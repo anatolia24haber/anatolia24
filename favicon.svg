@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Anatolia24">
+  <rect width="64" height="64" rx="14" fill="#14233c"/>
+  <g fill="#fff">
+    <polygon points="14,46 21.5,46 35.5,13 28,13"/>
+    <polygon points="42.5,46 50,46 36,13 28.5,13"/>
+    <rect x="22" y="34" width="20" height="5"/>
+  </g>
+  <rect x="15" y="51" width="34" height="5" rx="2.5" fill="#b3173b"/>
+</svg>

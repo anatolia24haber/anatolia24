@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anatolia24haber.github.io/anatolia24/sitemap.xml
